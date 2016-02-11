@@ -1,0 +1,32 @@
+{
+  "name": "sekai-channel.com",
+  "version": "1.0.0",
+  "description": "sekai-channel.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekai-channel/sekai-channel.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekai-channel/sekai-channel.github.io/issues"
+  },
+  "homepage": "https://github.com/sekai-channel/sekai-channel.github.io#readme",
+  "devDependencies": {
+    "babelify": "7.2.0",
+    "browser-sync": "2.11.1",
+    "browserify": "13.0.0",
+    "gulp": "3.9.1",
+    "gulp-ejs": "2.0.0",
+    "gulp-notify": "2.2.0",
+    "gulp-plumber": "1.1.0",
+    "gulp-sass": "2.2.0",
+    "lodash": "4.3.0",
+    "vinyl-source-stream": "1.1.0"
+  }
+}
